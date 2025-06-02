@@ -16,9 +16,11 @@ Users will need a channel location file for EEG data (e.g., a **.ced** file); th
 
 # Usage
 1. Browse to the Excel file containing topographical data
-2. Select the correct tab in the Excel file (dropdown)
+2. Select the correct tab in the Excel Tab dropdown
 3. Click "Load"
-4. Select export parameters (e.g., colormap)
+4. Select export parameters (e.g., change colormap, limits, resolution)
 5. Use "Test" to get a glimpse of what the headmap may look like
 6. Use "Generate" to output headmaps
-7. Load your channel location file when prompted and headmaps will be generated
+7. Load your channel location file when prompted and headmaps will be generated in the location of the input file
+
+![NIE_plot_headmap_GUI](https://github.com/user-attachments/assets/9c7d86d9-d539-4f0e-a84c-59671a0147fc)
