@@ -1,8 +1,8 @@
 # NIE-Plot-Headmaps
 A simple flexible app to plot EEG and fNIRS* topography.
-<span style="color:red">
-*fNIRS plots are currently compatible with Brite24 data only.
-</span>
+<br>
+_*fNIRS plots are currently compatible with Brite24 data only._
+
 
 # Prerequisites
 1. Matlab
