@@ -1,7 +1,8 @@
 # NIE-Plot-Headmaps
 A simple flexible app to plot EEG and fNIRS* topography.
 <br>
-_*fNIRS plots are currently compatible with Brite24 data only._
+<br>
+   _*fNIRS plots are currently compatible with Brite24 data only._
 
 
 # Prerequisites
